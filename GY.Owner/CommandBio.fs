@@ -28,4 +28,4 @@ type CommandBio() =
                     UnturnedChat.Say(caller, sprintf "Ping: %f" player.Ping, Color.cyan)
                     
             else
-                UnturnedChat.Say(caller, sprintf "Команда введена неверно, используйте %s." current.Name, Color.red)
+                UnturnedChat.Say(caller, sprintf "Команда введена неверно, используйте %s." current.Syntax, Color.red)
