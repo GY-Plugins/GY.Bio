@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "GY.Owner", "GY.Owner\GY.Owner.fsproj", "{DAD38F93-740E-41AE-9BF5-A62AA0D1EA76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAD38F93-740E-41AE-9BF5-A62AA0D1EA76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD38F93-740E-41AE-9BF5-A62AA0D1EA76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD38F93-740E-41AE-9BF5-A62AA0D1EA76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD38F93-740E-41AE-9BF5-A62AA0D1EA76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
